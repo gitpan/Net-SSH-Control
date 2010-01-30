@@ -1,0 +1,1 @@
+Net::SSH::Control is a module that runs a child "ssh" process with a socket and allows you to use scp, svn, or ssh with that connection.

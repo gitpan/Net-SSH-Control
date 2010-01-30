@@ -1,0 +1,16 @@
+Build.PL
+Changes
+lib/Net/SSH/Control.pm
+LICENSE
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/01-use.t
+t/02-log.t
+t/03-ssh.t
+t/05-garbage.t
+t/07-scp.t
+t/99-apocal.t
+t/lib/TestUtils.pm
+Makefile.PL
+META.yml
